@@ -1,0 +1,10 @@
+body {
+    background-color: #bb8c93;
+}
+
+.recipes li {
+    display: inline-block;
+    background-color: #f3e0d1;
+    margin: 8px auto;
+    padding: 8px;
+}
